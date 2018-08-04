@@ -1,4 +1,4 @@
-##Magis
+## Magis
 
 Magis is flight controller software (firmware) used to fly Pluto V3R and PlutoX nano drones of Pluto Platform.
 
