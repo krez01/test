@@ -1,9 +1,9 @@
 ## Magis
 
-Magis is flight controller software (firmware) used to fly Pluto V3R and PlutoX nano drones of Pluto Platform.
+Magis is flight controller software (firmware) used to fly **Pluto V3R** and **PlutoX** nano drones of Pluto Platform(see https://www.dronaaviation.com/).
 
-This fork has been ported to C++ from cleanflight to support object oriented paradigm which has been used to create diffrent set of APIs
-for Pluto Platform which can be easily used by any **Developers, Tinkeres and Makers** to start thier drone journey.
+This fork has been ported to C++ from cleanflight to support object oriented paradigm, which has been used to create different set of APIs
+for Pluto Platform which can be easily used by any **Developer, Tinkerer and Maker** to start their drone journey.
 
 ## Contributing
 
@@ -14,7 +14,7 @@ Contributions are welcome and encouraged.  You can contribute in many ways:
 * Bug reporting & fixes.
 * New feature ideas & suggestions.
 
-https://github.com/betaflight/betaflight/issues
+https://github.com/DronaAviation/Magis/issues
 
 Before creating new issues please check to see if there is an existing one, search first otherwise you waste peoples time when they could be coding instead!
 
